@@ -1,3 +1,3 @@
-# wow-classic-handbook
-A wow classic handbook for myself
-https://bozvital.github.io/wow-classic-handbook/
+# current-mmorpg-handbook
+A handbook guide for the current mmorpg games I play 
+https://bozvital.github.io/current-mmorpg-handbook/
