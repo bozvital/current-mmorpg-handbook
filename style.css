@@ -89,8 +89,21 @@ a, a:hover, a:focus {
     background: rgba(0, 0, 0, 0.171);
 }
 
+#sidebar .sidebar-subheader {
+    padding: 20px;
+    margin-bottom: 20px;
+    border-bottom:solid rgba(0, 0, 0, 0.171) 2px;
+}
+
+#sidebar .sidebar-midsubheader {
+    padding: 20px;
+    margin-bottom: 20px;
+    border-bottom:solid rgba(0, 0, 0, 0.171) 2px;
+    border-top:solid rgba(0, 0, 0, 0.171) 2px;
+}
+
 #sidebar ul.components {
-    padding: 20px 0;
+    padding: 5px 0;
 }
 
 #sidebar ul p {
